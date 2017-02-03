@@ -1,6 +1,6 @@
 - **Part1 职场**
     - [1.1 如果竞价"死"了，你还能做什么？](http://www.27sem.com/home.php?m=Index&a=newArticle&id=522)
-    - [1.2 职业危机，医疗竞价人员应何去何从？](http://127.0.0.1:9600/_markdown?path=F:/27sem_ebook/1.2_where's semer of yiliao to work.md)
+    - [1.2 职业危机，医疗竞价人员应何去何从？](1.2_where's semer of yiliao to work.md)
     - 1.3 职场 | 3招透视SEMer岗位职责，助力职业发展
 
 - **Part2 SEM基础知识**
